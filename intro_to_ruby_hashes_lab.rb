@@ -21,12 +21,12 @@ def monopoly_with_third_tier
   monopoly_with_third_tier = {
     :railroads => {:pieces => 4,
     :rent_in_dollars => {
-      :one_hotel => "25"
-      :two_hotels => "50"
-      :three_hotels => "75"
+      :one_hotel => "25",
+      :two_hotels => "50",
+      :three_hotels => "75",
       :four_hotels => "100"
       }
-    end
+    
     }
   }
 
