@@ -25,7 +25,8 @@ def monopoly_with_third_tier
       :two_hotels => "50",
       :three_hotels => "75",
       :four_hotels => "100"
-        }
+    },
+    :names => {},
     }
   }
 
