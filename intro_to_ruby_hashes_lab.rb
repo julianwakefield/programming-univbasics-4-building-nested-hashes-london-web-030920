@@ -27,9 +27,8 @@ def monopoly_with_third_tier
 			:four_hotels => "400"
 		},
 		:names => {"liverpool street", "cannon street", "kings cross", "fenchurch street"}
-		}
-  end
-	}
+		
+	
 
   # When you start writing the implementation for this method, copy the Hash
   # you built in the previous method. Run the tests. They will fail, but
