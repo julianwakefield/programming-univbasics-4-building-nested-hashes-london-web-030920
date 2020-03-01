@@ -27,10 +27,11 @@ def monopoly_with_third_tier
       :four_pieces_owned => 200
     },
     :names => {
-      :liverpool_street => {},
-      :cannon_street => {},
-      :kings_cross => {},
-      :fenchurch_street => {}
+      :reading_railroad => {},
+        :liverpool_street => {},
+        :cannon_street => {},
+        :kings_cross => {},
+        :fenchurch_street => {}
       },
     }
   }
