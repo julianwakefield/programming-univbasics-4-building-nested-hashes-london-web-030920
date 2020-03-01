@@ -26,7 +26,7 @@ def monopoly_with_third_tier
       :three_hotels => "75",
       :four_hotels => "100"
     },
-    :names => {},
+    :names => {"liverpool street", "cannon street", "king's cross", "fenchurch street"},
     }
   }
 
