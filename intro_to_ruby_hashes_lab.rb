@@ -26,8 +26,7 @@ def monopoly_with_third_tier
 			:three_hotels => "300",
 			:four_hotels => "400"
 		},
-		:names => {}
-}
+		
 
 
   # When you start writing the implementation for this method, copy the Hash
