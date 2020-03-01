@@ -28,7 +28,7 @@ def monopoly_with_third_tier
     },
     :names => {
         :reading_railroad => {},
-        :cannon_street => {},
+        :pennsylvania_railroad => {},
         :kings_cross => {},
         :fenchurch_street => {}
       },
